@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": "q06sbazkt",
+      "name": "Sản phẩm 1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-front-end-15e66.appspot.com/o/images%2FO1CN01dzU0k11y5s7iwMd9M_!!1667346528.jpg?alt=media&token=836c1be1-ce1f-4fdd-85f7-f881c82c40f3",
+      "price": "12313",
+      "priceSale": "149",
+      "status": "Còn hàng",
+      "id_cate": "6k07sf0dw",
+      "textAra": "Chất lụa mềm mịn mặc mùa hè bao mát"
+    },
+    {
+      "id": "vhx9lcdqj",
+      "name": "Sản phẩm 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-front-end-15e66.appspot.com/o/images%2F117181385_1298609267147741_8606989850898796174_n.jpg?alt=media&token=6beaeb70-dce7-47f3-8192-018ecc6bb02e",
+      "price": "380000",
+      "priceSale": "245000",
+      "status": "Còn hàng",
+      "id_cate": "6k07sf0dw",
+      "textAra": "Váy xinh hack dáng"
+    },
+    {
+      "id": "mdqekpum5",
+      "name": "Set ngủ ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-front-end-15e66.appspot.com/o/images%2FO1CN01jqxFjQ1mt5H5JBIlM_!!2228255011.png?alt=media&token=1f663580-def6-496d-882a-07507c648204",
+      "price": "319000",
+      "priceSale": "299000",
+      "status": "Còn hàng",
+      "id_cate": "2kzcewkjh",
+      "textAra": "Chất lụa mềm mịn"
+    },
+    {
+      "id": "1mi1g2tlc",
+      "name": "test",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-front-end-15e66.appspot.com/o/images%2FO1CN01KC82i21mt5H6BdMG7_!!2228255011.png?alt=media&token=7d269815-740a-4240-819b-8e41800be4b0",
+      "price": "11111",
+      "priceSale": "2231",
+      "status": "Còn hàng",
+      "id_cate": "2kzcewkjh",
+      "textAra": "Set đồ ngủ mặc thoải mái"
+    },
+    {
+      "id": "t79vrcvhw",
+      "name": "test",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-front-end-15e66.appspot.com/o/images%2FO1CN01KC82i21mt5H6BdMG7_!!2228255011.png?alt=media&token=bd42f176-daf9-4266-955c-7995aed6d54d",
+      "price": "11111",
+      "priceSale": "2231",
+      "status": "Còn hàng",
+      "id_cate": "2kzcewkjh",
+      "textAra": "Set đồ ngủ mặc thoải mái"
+    },
+    {
+      "id": "n8ld2u4oi",
+      "name": "Trần Văn Quang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-front-end-15e66.appspot.com/o/images%2FUntitled-2.jpg?alt=media&token=a1447c80-4610-49d3-b4c8-605e38fcda7a",
+      "price": "11111",
+      "priceSale": "231",
+      "status": "Còn hàng",
+      "id_cate": "fk25w89ot",
+      "textAra": "adadad"
+    }
+  ],
+  "category": [
+    {
+      "id": "6k07sf0dw",
+      "nameCate": "Váy lụa",
+      "imageCate": "https://danangaz.com/wp-content/uploads/2018/10/shop-quan-ao-nu-da-nang-1.jpg",
+      "textAra": "Váy xinh"
+    },
+    {
+      "id": "2kzcewkjh",
+      "nameCate": "Set ngủ",
+      "imageCate": "https://giadinh.mediacdn.vn/thumb_w/640/2020/4/20/photo-1-15873535006221305051268.jpg",
+      "textAra": "Đồ ngủ mặc tại nhà "
+    },
+    {
+      "id": "q9vmlzhcb",
+      "nameCate": "test",
+      "imageCate": "https://danangaz.com/wp-content/uploads/2018/10/shop-quan-ao-nu-da-nang-1.jpg",
+      "textAra": "qadad"
+    }
+  ],
+  "posts": [
+    {
+      "id": "ocomgffow",
+      "namePost": "ccccc",
+      "textAra": "ccccc"
+    }
+  ]
+}
